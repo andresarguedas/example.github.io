@@ -10,6 +10,8 @@ navbar:
       menu:
         - text: "Resume"
           href: resume.html
+    - text: "Example Dashboard"
+      href: flexdashboard_activity_solution.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
