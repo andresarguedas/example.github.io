@@ -1,0 +1,8 @@
+---
+title: "Resume"
+author: "Andrés Arguedas"
+date: "18/3/2022"
+output: html_document
+---
+
+This is my resume

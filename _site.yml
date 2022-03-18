@@ -6,6 +6,10 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Recent Work"
+      menu:
+        - text: "Resume"
+          href: resume.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
